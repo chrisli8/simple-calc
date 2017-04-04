@@ -6,12 +6,13 @@ When running the SimpleCalc.swift you can do + - * / %. You can do this by typin
 
 The program also supports counting, average, and factorial. To use these, type a series of numbers followed by "count" or "avg" or "fact". Fact only takes one number.
 
-(e.g.) 10 4 25 17 5 count 
+(e.g.) 
+       10 4 25 17 5 count 
        => 5
 
        2 4 6 8 10 avg 
        => 6
 
-       2 4 6 8 10 avg 
-       => 6
+       5 fact 
+       => 120
        
